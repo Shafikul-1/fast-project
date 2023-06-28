@@ -1,0 +1,1 @@
+const fast = 'this is a demo contnet'
