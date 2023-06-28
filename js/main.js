@@ -1,0 +1,2 @@
+
+const fast = 'fast content'
