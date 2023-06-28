@@ -1,0 +1,7 @@
+{
+    "name": "fast-project",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
