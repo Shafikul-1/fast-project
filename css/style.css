@@ -3,3 +3,19 @@ h1{
     background: #000;
     color: rgb(255, 255, 255);
 }
+.titleNameChange{
+    background: #dddada;
+}
+
+.fast{
+    width: 400px;
+    height: 400px;
+    background: #000;
+    position: relative;
+}
+.second{
+    width: 50px;
+    height: 50px;
+    background: #94c846;
+    position: absolute;
+}
